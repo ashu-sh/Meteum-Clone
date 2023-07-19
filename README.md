@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![image](https://github.com/ashu-sh/Meteum-Clone/assets/102554445/57b52bd5-3191-4f98-97ff-971427ab5dfe)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
