@@ -14,7 +14,7 @@ export const Content = () => {
 
   const handleSearch = async (e) =>{
     e.preventDefault();
-    const res = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=9cc3d5383f8c32bc5635faaed148eb4d&units=metric`)
+    const res = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=API_Key&units=metric`)
     const data = await res.json();
     setWeatherData(data);
   }
