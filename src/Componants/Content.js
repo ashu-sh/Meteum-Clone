@@ -90,9 +90,7 @@ export const Content = () => {
       </Card.Body>
     </Card>
        </Nav>
-       
-      </div>
-      
+      </div>   
     </>
     
   )

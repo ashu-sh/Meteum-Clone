@@ -30,7 +30,6 @@ function Channel() {
     })
   },[])
 
-
   return (
     <div>
         <h3>{News.value.description}</h3>
